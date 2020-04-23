@@ -8,3 +8,8 @@ After running the model (and applying some styles and labels) the result looks l
 
 ![model result](result.png)
 
+There a couple of different ways to run the model in QGIS.  Here's one:
+
+1. Processing menu > Graphical Modeler...
+2. Open Model
+3. Click the "run" button (green triangle) in the toolbar

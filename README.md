@@ -6,5 +6,5 @@ The test dataset a polygon layer that contains four circular areas and an "fid" 
 
 After running the model (and applying some styles and labels) the result looks like this:
 
-[!model result](result.png)
+![model result](result.png)
 

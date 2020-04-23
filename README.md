@@ -8,10 +8,10 @@ After running the model (and applying some styles and labels) the result looks l
 
 ![model result](result.png)
 
-To use the model, first download <a href="https://github.com/kgjenkins/qgis-count-polygon-overlap/raw/master/count-polygon-overlap.model3" download="count-polygon-overlap.model3">count-polygon-overlap.model3</a> to your computer.  (It's the only file in this repo that you'll need.)
+To use the model, first right-click [count-polygon-overlap.model3](https://github.com/kgjenkins/qgis-count-polygon-overlap/raw/master/count-polygon-overlap.model3) and "Save link as..." to your computer.  (It's the only file in this repo that you'll need.)
 
 There a couple of different ways to run the model in QGIS.  Here's one:
 
 1. Processing menu > Graphical Modeler...
-2. Open Model
+2. Open Model (and select the .model3 file you downloaded)
 3. Click the "run" button (green triangle) in the toolbar

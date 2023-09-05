@@ -8,7 +8,7 @@ After running the model (and applying some styles and labels) the result looks l
 
 ![model result](result.png)
 
-To use the model, first right-click [count-polygon-overlap.model3](https://github.com/kgjenkins/qgis-count-polygon-overlap/raw/master/count-polygon-overlap.model3) and "Save link as..." to your computer.  (It's the only file in this repo that you'll need.)
+To use the model, first right-click [count-polygon-overlap.model3](https://raw.githubusercontent.com/kgjenkins/qgis-count-polygon-overlap/main/count-polygon-overlap.model3) and "Save link as..." to your computer.  (It's the only file in this repo that you'll need.)
 
 There a couple of different ways to run the model in QGIS.  Here's one:
 
